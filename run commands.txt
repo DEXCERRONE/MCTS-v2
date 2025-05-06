@@ -1,0 +1,4 @@
+python mcts2.py --start_proteins DLL1 DLL3 DLL4 JAG1 JAG2 --stop_protein NFE2L2 --desired_length 10 --iterations 100000 --chain_length 20 --output results
+
+
+python mcts2.py --start_protein BTRC --stop_protein PLVAP --desired_length 4 --iterations 100000 --chain_length 12 --output results
