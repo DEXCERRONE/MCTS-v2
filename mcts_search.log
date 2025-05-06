@@ -1,0 +1,302 @@
+2025-04-18 21:41:59,691 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 21:41:59,691 - MainProcess - mcts_search - INFO - Starting MCTS: 100000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 21:42:13,900 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 21:42:13,926 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:42:13,927 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:42:13,927 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,928 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,929 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:42:13,927 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:45:10,805 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 176.88 seconds. Found 7693 valid paths.
+2025-04-18 21:45:11,970 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 178.04 seconds. Found 7693 valid paths.
+2025-04-18 21:45:13,100 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 179.17 seconds. Found 7694 valid paths.
+2025-04-18 21:45:13,214 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 179.29 seconds. Found 7693 valid paths.
+2025-04-18 21:45:13,628 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 179.70 seconds. Found 7693 valid paths.
+2025-04-18 21:45:13,645 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 179.72 seconds. Found 7693 valid paths.
+2025-04-18 21:45:14,114 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 180.18 seconds. Found 7693 valid paths.
+2025-04-18 21:45:14,143 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 180.22 seconds. Found 7694 valid paths.
+2025-04-18 21:45:14,435 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 180.51 seconds. Found 7694 valid paths.
+2025-04-18 21:45:14,585 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 180.66 seconds. Found 7693 valid paths.
+2025-04-18 21:45:14,587 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 180.66 seconds. Found 7693 valid paths.
+2025-04-18 21:45:14,754 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 180.83 seconds. Found 7693 valid paths.
+2025-04-18 21:45:15,289 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 181.36 seconds. Found 7694 valid paths.
+2025-04-18 21:45:15,300 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 21:45:16,650 - MainProcess - mcts_search - INFO - Total paths found before merging: 100013
+2025-04-18 21:45:16,657 - MainProcess - mcts_search - INFO - Protein DLL1 found 100013 valid paths
+2025-04-18 21:45:16,704 - MainProcess - mcts_search - INFO - MCTS Search completed in 197.01 seconds
+2025-04-18 21:45:16,704 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 21:45:16,704 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=5, value=106.0300
+2025-04-18 21:45:16,704 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=5, value=106.0264
+2025-04-18 21:45:16,704 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=5, value=106.0124
+2025-04-18 21:47:34,651 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 21:47:34,652 - MainProcess - mcts_search - INFO - Starting MCTS: 100000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 21:47:50,663 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 21:47:50,664 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:47:50,664 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:47:50,665 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,665 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:47:50,666 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,665 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 21:47:50,666 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,667 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,667 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,667 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,667 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,668 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:47:50,668 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 21:50:44,634 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 173.97 seconds. Found 7693 valid paths.
+2025-04-18 21:50:44,919 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 174.25 seconds. Found 7693 valid paths.
+2025-04-18 21:50:46,179 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 175.51 seconds. Found 7693 valid paths.
+2025-04-18 21:50:46,283 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 175.61 seconds. Found 7693 valid paths.
+2025-04-18 21:50:46,441 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 175.77 seconds. Found 7693 valid paths.
+2025-04-18 21:50:46,647 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 175.98 seconds. Found 7693 valid paths.
+2025-04-18 21:50:46,762 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 176.10 seconds. Found 7694 valid paths.
+2025-04-18 21:50:46,998 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 176.33 seconds. Found 7693 valid paths.
+2025-04-18 21:50:48,042 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 177.37 seconds. Found 7693 valid paths.
+2025-04-18 21:50:48,190 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 177.52 seconds. Found 7693 valid paths.
+2025-04-18 21:50:48,204 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 177.54 seconds. Found 7694 valid paths.
+2025-04-18 21:50:48,512 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 177.85 seconds. Found 7694 valid paths.
+2025-04-18 21:50:48,827 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 178.16 seconds. Found 7694 valid paths.
+2025-04-18 21:50:48,838 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 21:50:50,004 - MainProcess - mcts_search - INFO - Total paths found before merging: 100013
+2025-04-18 21:50:50,100 - MainProcess - mcts_search - INFO - Total unique paths after merging: 37616
+2025-04-18 21:50:50,104 - MainProcess - mcts_search - INFO - Protein DLL1 found 37616 valid paths
+2025-04-18 21:50:50,120 - MainProcess - mcts_search - INFO - MCTS Search completed in 195.47 seconds
+2025-04-18 21:50:50,120 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 21:50:50,120 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=5, value=106.0170
+2025-04-18 21:50:50,120 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=5, value=105.7281
+2025-04-18 21:50:50,120 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=6, value=105.4525
+2025-04-18 22:02:02,293 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 22:02:02,293 - MainProcess - mcts_search - INFO - Starting MCTS: 1000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 22:02:18,219 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 22:02:18,221 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,222 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,222 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,223 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,224 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,223 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,223 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,223 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,224 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 76 iterations
+2025-04-18 22:02:18,224 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,224 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,224 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:18,224 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 77 iterations
+2025-04-18 22:02:19,844 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 1.62 seconds. Found 77 valid paths.
+2025-04-18 22:02:19,882 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 1.66 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,906 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 1.68 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,921 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 1.70 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,930 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 1.71 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,931 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 1.71 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,938 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 1.71 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,942 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 1.72 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,943 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 1.72 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,956 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 1.73 seconds. Found 78 valid paths.
+2025-04-18 22:02:19,965 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 1.74 seconds. Found 78 valid paths.
+2025-04-18 22:02:20,026 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 1.80 seconds. Found 78 valid paths.
+2025-04-18 22:02:20,027 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 1.80 seconds. Found 78 valid paths.
+2025-04-18 22:02:20,028 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 22:02:21,333 - MainProcess - mcts_search - INFO - Total paths found before merging: 1013
+2025-04-18 22:02:21,334 - MainProcess - mcts_search - INFO - Total unique paths after merging: 249
+2025-04-18 22:02:21,334 - MainProcess - mcts_search - INFO - Protein DLL1 found 249 valid paths
+2025-04-18 22:02:21,335 - MainProcess - mcts_search - INFO - MCTS Search completed in 19.04 seconds
+2025-04-18 22:02:21,335 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 22:02:21,335 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=2, value=7.0261
+2025-04-18 22:02:21,335 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=3, value=5.5783
+2025-04-18 22:02:21,335 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=3, value=5.5388
+2025-04-18 22:03:26,072 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 22:03:26,072 - MainProcess - mcts_search - INFO - Starting MCTS: 10000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 22:03:41,438 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 22:03:41,443 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 770 iterations
+2025-04-18 22:03:41,443 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 770 iterations
+2025-04-18 22:03:41,444 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,445 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,445 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,445 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 770 iterations
+2025-04-18 22:03:41,446 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,446 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,446 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,447 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,446 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,447 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:41,447 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 769 iterations
+2025-04-18 22:03:58,507 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 17.06 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,574 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 17.13 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,588 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 17.14 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,631 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 17.18 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,636 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 17.19 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,636 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 17.19 seconds. Found 771 valid paths.
+2025-04-18 22:03:58,639 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 17.19 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,652 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 17.21 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,662 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 17.21 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,668 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 17.22 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,679 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 17.23 seconds. Found 770 valid paths.
+2025-04-18 22:03:58,756 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 17.31 seconds. Found 771 valid paths.
+2025-04-18 22:03:59,170 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 17.72 seconds. Found 771 valid paths.
+2025-04-18 22:03:59,173 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 22:04:00,490 - MainProcess - mcts_search - INFO - Total paths found before merging: 10013
+2025-04-18 22:04:00,497 - MainProcess - mcts_search - INFO - Total unique paths after merging: 1593
+2025-04-18 22:04:00,498 - MainProcess - mcts_search - INFO - Protein DLL1 found 1593 valid paths
+2025-04-18 22:04:00,499 - MainProcess - mcts_search - INFO - MCTS Search completed in 34.43 seconds
+2025-04-18 22:04:00,499 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 22:04:00,499 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=4, value=104.8400
+2025-04-18 22:04:00,499 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=4, value=55.4200
+2025-04-18 22:04:00,499 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=3, value=53.4850
+2025-04-18 22:04:49,942 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 22:04:49,943 - MainProcess - mcts_search - INFO - Starting MCTS: 100000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 22:05:05,358 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 22:05:05,358 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:05:05,359 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:05:05,360 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:05:05,360 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:05:05,360 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,361 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,361 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,362 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,362 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,362 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,363 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,363 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:05:05,363 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:07:58,718 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 173.36 seconds. Found 7693 valid paths.
+2025-04-18 22:08:00,568 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 175.20 seconds. Found 7693 valid paths.
+2025-04-18 22:08:00,939 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 175.58 seconds. Found 7693 valid paths.
+2025-04-18 22:08:00,967 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 175.61 seconds. Found 7694 valid paths.
+2025-04-18 22:08:01,082 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 175.72 seconds. Found 7693 valid paths.
+2025-04-18 22:08:01,649 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 176.29 seconds. Found 7693 valid paths.
+2025-04-18 22:08:01,710 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 176.35 seconds. Found 7693 valid paths.
+2025-04-18 22:08:01,849 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 176.49 seconds. Found 7693 valid paths.
+2025-04-18 22:08:01,906 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 176.55 seconds. Found 7694 valid paths.
+2025-04-18 22:08:02,022 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 176.66 seconds. Found 7693 valid paths.
+2025-04-18 22:08:02,162 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 176.80 seconds. Found 7694 valid paths.
+2025-04-18 22:08:02,425 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 177.07 seconds. Found 7694 valid paths.
+2025-04-18 22:08:02,548 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 177.18 seconds. Found 7693 valid paths.
+2025-04-18 22:08:02,558 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 22:08:03,866 - MainProcess - mcts_search - INFO - Total paths found before merging: 100013
+2025-04-18 22:08:03,957 - MainProcess - mcts_search - INFO - Total unique paths after merging: 36366
+2025-04-18 22:08:03,961 - MainProcess - mcts_search - INFO - Protein DLL1 found 36366 valid paths
+2025-04-18 22:08:03,969 - MainProcess - mcts_search - INFO - MCTS Search completed in 194.03 seconds
+2025-04-18 22:08:03,969 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 22:08:03,969 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=5, value=106.0000
+2025-04-18 22:08:03,969 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=5, value=106.0000
+2025-04-18 22:08:03,969 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=5, value=105.7100
+2025-04-18 22:09:10,706 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 22:09:10,706 - MainProcess - mcts_search - INFO - Starting MCTS: 100000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 22:09:26,029 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 22:09:26,031 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:09:26,031 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:09:26,031 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:09:26,032 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 7693 iterations
+2025-04-18 22:09:26,032 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,032 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,033 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,033 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,034 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,034 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,034 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,034 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:09:26,034 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 7692 iterations
+2025-04-18 22:12:50,954 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 204.92 seconds. Found 7693 valid paths.
+2025-04-18 22:12:54,653 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 208.62 seconds. Found 7694 valid paths.
+2025-04-18 22:12:55,628 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 209.60 seconds. Found 7693 valid paths.
+2025-04-18 22:12:55,805 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 209.77 seconds. Found 7694 valid paths.
+2025-04-18 22:12:56,212 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 210.18 seconds. Found 7693 valid paths.
+2025-04-18 22:12:56,544 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 210.51 seconds. Found 7693 valid paths.
+2025-04-18 22:12:56,780 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 210.75 seconds. Found 7693 valid paths.
+2025-04-18 22:12:56,959 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 210.93 seconds. Found 7694 valid paths.
+2025-04-18 22:12:57,065 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 211.03 seconds. Found 7693 valid paths.
+2025-04-18 22:12:57,171 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 211.14 seconds. Found 7693 valid paths.
+2025-04-18 22:12:57,314 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 211.28 seconds. Found 7694 valid paths.
+2025-04-18 22:12:57,745 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 211.71 seconds. Found 7693 valid paths.
+2025-04-18 22:12:58,551 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 212.52 seconds. Found 7693 valid paths.
+2025-04-18 22:12:58,564 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 22:12:59,900 - MainProcess - mcts_search - INFO - Total paths found before merging: 100013
+2025-04-18 22:12:59,906 - MainProcess - mcts_search - INFO - Protein DLL1 found 100013 valid paths
+2025-04-18 22:12:59,929 - MainProcess - mcts_search - INFO - MCTS Search completed in 229.22 seconds
+2025-04-18 22:12:59,929 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 22:12:59,929 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=5, value=106.0000
+2025-04-18 22:12:59,929 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=5, value=106.0000
+2025-04-18 22:12:59,929 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=5, value=106.0000
+2025-04-18 22:19:00,189 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 22:19:00,190 - MainProcess - mcts_search - INFO - Starting MCTS: 1000000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 22:19:15,752 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 22:19:15,753 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 76924 iterations
+2025-04-18 22:19:15,753 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,753 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,754 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,754 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,755 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,755 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,755 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,756 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,756 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,756 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,756 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:19:15,756 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 22:36:57,314 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 1061.56 seconds. Found 76379 valid paths.
+2025-04-18 22:38:22,768 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 1147.02 seconds. Found 75945 valid paths.
+2025-04-18 22:39:31,458 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 1215.70 seconds. Found 76063 valid paths.
+2025-04-18 22:44:37,523 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 1521.77 seconds. Found 76924 valid paths.
+2025-04-18 22:44:59,288 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 1543.53 seconds. Found 76904 valid paths.
+2025-04-18 22:45:29,260 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 1573.50 seconds. Found 76855 valid paths.
+2025-04-18 22:46:15,596 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 1619.84 seconds. Found 76922 valid paths.
+2025-04-18 22:46:25,752 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 1630.00 seconds. Found 76923 valid paths.
+2025-04-18 22:46:27,588 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 1631.83 seconds. Found 76897 valid paths.
+2025-04-18 22:46:38,581 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 1642.83 seconds. Found 76304 valid paths.
+2025-04-18 22:47:04,012 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 1668.26 seconds. Found 76924 valid paths.
+2025-04-18 22:47:15,768 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 1680.01 seconds. Found 76924 valid paths.
+2025-04-18 22:47:21,714 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 1685.96 seconds. Found 76924 valid paths.
+2025-04-18 22:47:21,854 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 22:47:23,194 - MainProcess - mcts_search - INFO - Total paths found before merging: 996888
+2025-04-18 22:47:25,352 - MainProcess - mcts_search - INFO - Total unique paths after merging: 605710
+2025-04-18 22:47:25,430 - MainProcess - mcts_search - INFO - Protein DLL1 found 605710 valid paths
+2025-04-18 22:47:25,755 - MainProcess - mcts_search - INFO - MCTS Search completed in 1705.57 seconds
+2025-04-18 22:47:25,755 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 22:47:25,755 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=33, value=124.5972
+2025-04-18 22:47:25,755 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=31, value=124.5814
+2025-04-18 22:47:25,755 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=23, value=124.5596
+2025-04-18 22:59:53,380 - MainProcess - mcts_search - INFO - MCTS Search started with parameters: start_proteins=['DLL1'], stop_protein=NFE2L2, desired_length=10
+2025-04-18 22:59:53,380 - MainProcess - mcts_search - INFO - Starting MCTS: 1000000 iterations over 13 workers for proteins ['DLL1']
+2025-04-18 23:00:09,092 - MainProcess - mcts_search - INFO - Worker pool initialized with 13 processes
+2025-04-18 23:00:09,096 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,097 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,097 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,097 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,098 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,098 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,099 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,099 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,099 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,099 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,099 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,100 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - Starting MCTS worker for protein DLL1 with 76923 iterations
+2025-04-18 23:00:09,099 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - Starting MCTS worker for protein DLL1 with 76924 iterations
+2025-04-18 23:15:42,105 - SpawnPoolWorker-7 - mcts_search.worker.SpawnPoolWorker-7 - INFO - MCTS worker for protein DLL1 completed in 933.01 seconds. Found 73771 valid paths.
+2025-04-18 23:16:01,668 - SpawnPoolWorker-3 - mcts_search.worker.SpawnPoolWorker-3 - INFO - MCTS worker for protein DLL1 completed in 952.57 seconds. Found 73978 valid paths.
+2025-04-18 23:16:54,025 - SpawnPoolWorker-11 - mcts_search.worker.SpawnPoolWorker-11 - INFO - MCTS worker for protein DLL1 completed in 1004.93 seconds. Found 74204 valid paths.
+2025-04-18 23:18:27,980 - SpawnPoolWorker-1 - mcts_search.worker.SpawnPoolWorker-1 - INFO - MCTS worker for protein DLL1 completed in 1098.88 seconds. Found 74716 valid paths.
+2025-04-18 23:18:40,745 - SpawnPoolWorker-10 - mcts_search.worker.SpawnPoolWorker-10 - INFO - MCTS worker for protein DLL1 completed in 1111.64 seconds. Found 75609 valid paths.
+2025-04-18 23:20:20,804 - SpawnPoolWorker-5 - mcts_search.worker.SpawnPoolWorker-5 - INFO - MCTS worker for protein DLL1 completed in 1211.71 seconds. Found 74906 valid paths.
+2025-04-18 23:20:29,144 - SpawnPoolWorker-12 - mcts_search.worker.SpawnPoolWorker-12 - INFO - MCTS worker for protein DLL1 completed in 1220.04 seconds. Found 74531 valid paths.
+2025-04-18 23:20:33,260 - SpawnPoolWorker-9 - mcts_search.worker.SpawnPoolWorker-9 - INFO - MCTS worker for protein DLL1 completed in 1224.16 seconds. Found 75509 valid paths.
+2025-04-18 23:22:31,987 - SpawnPoolWorker-6 - mcts_search.worker.SpawnPoolWorker-6 - INFO - MCTS worker for protein DLL1 completed in 1342.89 seconds. Found 76336 valid paths.
+2025-04-18 23:22:55,435 - SpawnPoolWorker-13 - mcts_search.worker.SpawnPoolWorker-13 - INFO - MCTS worker for protein DLL1 completed in 1366.34 seconds. Found 76088 valid paths.
+2025-04-18 23:22:55,454 - SpawnPoolWorker-8 - mcts_search.worker.SpawnPoolWorker-8 - INFO - MCTS worker for protein DLL1 completed in 1366.35 seconds. Found 76548 valid paths.
+2025-04-18 23:22:56,399 - SpawnPoolWorker-2 - mcts_search.worker.SpawnPoolWorker-2 - INFO - MCTS worker for protein DLL1 completed in 1367.30 seconds. Found 75738 valid paths.
+2025-04-18 23:23:21,479 - SpawnPoolWorker-4 - mcts_search.worker.SpawnPoolWorker-4 - INFO - MCTS worker for protein DLL1 completed in 1392.38 seconds. Found 76737 valid paths.
+2025-04-18 23:23:21,619 - MainProcess - mcts_search - INFO - All worker processes completed
+2025-04-18 23:23:22,828 - MainProcess - mcts_search - INFO - Total paths found before merging: 978671
+2025-04-18 23:23:24,645 - MainProcess - mcts_search - INFO - Total unique paths after merging: 966432
+2025-04-18 23:23:24,737 - MainProcess - mcts_search - INFO - Protein DLL1 found 966432 valid paths
+2025-04-18 23:23:25,261 - MainProcess - mcts_search - INFO - MCTS Search completed in 1411.88 seconds
+2025-04-18 23:23:25,261 - MainProcess - mcts_search - INFO - Results saved to results/top_mcts_paths.json
+2025-04-18 23:23:25,261 - MainProcess - mcts_search - INFO - Top path #1: start=DLL1, length=35, value=124.6343
+2025-04-18 23:23:25,261 - MainProcess - mcts_search - INFO - Top path #2: start=DLL1, length=33, value=124.6195
+2025-04-18 23:23:25,261 - MainProcess - mcts_search - INFO - Top path #3: start=DLL1, length=33, value=124.6054

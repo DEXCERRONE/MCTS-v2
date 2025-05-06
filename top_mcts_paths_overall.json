@@ -1,0 +1,281 @@
+{
+  "top_overall_paths": [
+    {
+      "start": "DLL3",
+      "path": [
+        "DLL3",
+        "LFNG",
+        "RFNG",
+        "NOTCH4",
+        "DVL1"
+      ],
+      "visits": 1,
+      "avg_value": 106.0462239459157,
+      "length": 5
+    },
+    {
+      "start": "DLL1",
+      "path": [
+        "DLL1",
+        "LFNG",
+        "RFNG",
+        "NOTCH3",
+        "NOTCH4"
+      ],
+      "visits": 1,
+      "avg_value": 106.03789494559169,
+      "length": 5
+    },
+    {
+      "start": "JAG2",
+      "path": [
+        "JAG2",
+        "MAML3",
+        "CCNC",
+        "MED25",
+        "MED9"
+      ],
+      "visits": 1,
+      "avg_value": 106.0374823063612,
+      "length": 5
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "HEY2",
+        "HES1",
+        "FANCC",
+        "FANCL"
+      ],
+      "visits": 1,
+      "avg_value": 106.0361679084599,
+      "length": 5
+    },
+    {
+      "start": "DLL1",
+      "path": [
+        "DLL1",
+        "LFNG",
+        "RFNG",
+        "NOTCH2",
+        "MAML2"
+      ],
+      "visits": 1,
+      "avg_value": 106.03502044081688,
+      "length": 5
+    },
+    {
+      "start": "JAG1",
+      "path": [
+        "JAG1",
+        "NEURL1B",
+        "MIB2",
+        "TRAF2",
+        "TRAF3IP2"
+      ],
+      "visits": 1,
+      "avg_value": 106.03462347388268,
+      "length": 5
+    },
+    {
+      "start": "JAG2",
+      "path": [
+        "JAG2",
+        "JAG1",
+        "NRARP",
+        "MAML1",
+        "HEY1",
+        "CUL2"
+      ],
+      "visits": 1,
+      "avg_value": 106.03288114443421,
+      "length": 6
+    },
+    {
+      "start": "JAG1",
+      "path": [
+        "JAG1",
+        "NEURL",
+        "MIB2",
+        "TRADD",
+        "TNFRSF10B"
+      ],
+      "visits": 1,
+      "avg_value": 106.03215407580137,
+      "length": 5
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "DLL1",
+        "DLL4",
+        "NOTCH2",
+        "EP300"
+      ],
+      "visits": 1,
+      "avg_value": 106.03140215948224,
+      "length": 5
+    },
+    {
+      "start": "DLL1",
+      "path": [
+        "DLL1",
+        "MESP2",
+        "RIPPLY2",
+        "MESP2",
+        "TCF4",
+        "ID3"
+      ],
+      "visits": 1,
+      "avg_value": 106.02936107106507,
+      "length": 6
+    },
+    {
+      "start": "JAG2",
+      "path": [
+        "JAG2",
+        "MAML3",
+        "HEY1",
+        "MAML3",
+        "ANK3"
+      ],
+      "visits": 1,
+      "avg_value": 106.02832034789026,
+      "length": 5
+    },
+    {
+      "start": "DLL3",
+      "path": [
+        "DLL3",
+        "NOTCH4",
+        "DTX1",
+        "ANK2",
+        "AXIN1"
+      ],
+      "visits": 1,
+      "avg_value": 106.02356684952974,
+      "length": 5
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "NR2F2",
+        "PPARG",
+        "KRAS",
+        "CALM3"
+      ],
+      "visits": 1,
+      "avg_value": 106.02119947224855,
+      "length": 5
+    },
+    {
+      "start": "DLL3",
+      "path": [
+        "DLL3",
+        "LFNG",
+        "TBX6",
+        "DLL1",
+        "ADAM10",
+        "EFNA2"
+      ],
+      "visits": 1,
+      "avg_value": 106.02071821689606,
+      "length": 6
+    },
+    {
+      "start": "JAG2",
+      "path": [
+        "JAG2",
+        "HEY1",
+        "MAML2",
+        "HES1",
+        "MAML3"
+      ],
+      "visits": 1,
+      "avg_value": 106.02038201875985,
+      "length": 5
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "HEY2",
+        "HES1",
+        "FANCG",
+        "FANCC",
+        "BRIP1"
+      ],
+      "visits": 1,
+      "avg_value": 106.02025563828647,
+      "length": 6
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "NOTCH4",
+        "DTX4",
+        "NLRP4",
+        "BECN1"
+      ],
+      "visits": 1,
+      "avg_value": 106.01980280317366,
+      "length": 5
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "HEY1",
+        "JAG2",
+        "SETD2",
+        "KDM2A"
+      ],
+      "visits": 1,
+      "avg_value": 106.0196728464216,
+      "length": 5
+    },
+    {
+      "start": "DLL4",
+      "path": [
+        "DLL4",
+        "HEY2",
+        "HES1",
+        "HEY1",
+        "MAML2"
+      ],
+      "visits": 1,
+      "avg_value": 106.01921457052231,
+      "length": 5
+    },
+    {
+      "start": "DLL3",
+      "path": [
+        "DLL3",
+        "HES5",
+        "MAML2",
+        "CREBBP",
+        "MAML2"
+      ],
+      "visits": 1,
+      "avg_value": 106.01687199994922,
+      "length": 5
+    }
+  ],
+  "parameters": {
+    "start_proteins": [
+      "DLL1",
+      "DLL3",
+      "DLL4",
+      "JAG1",
+      "JAG2"
+    ],
+    "stop_protein": "NFE2L2",
+    "desired_length": 10,
+    "iterations": 100000,
+    "chain_length": 20
+  }
+}
